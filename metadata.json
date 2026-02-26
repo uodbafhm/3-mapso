@@ -1,0 +1,7 @@
+{
+  "name": "3-MAPSO",
+  "description": "Professional dental care website for MAPSO, featuring ultra-modern design, real-time status tracking, and advanced animations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
